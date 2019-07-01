@@ -122,6 +122,9 @@ a{
     font-family: 'Oxygen', sans-serif;
     font-weight: bold;
 }
+.footer-link:hover{
+    color: #ffffff;
+}
 .copyrights{
     color: #eaf6f6;
     font-family: 'Varela Round', sans-serif;
