@@ -1,0 +1,127 @@
+.top-container{
+    position: relative;
+    background-color: #00adb5;
+    padding-top: 100px;
+    
+
+}
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+    
+}    
+h1{
+    margin: 50px auto 0px auto;
+    color: #222831;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 4em;
+    line-height: 2;
+}
+h2{
+    font-family: 'Oxygen', sans-serif;
+    color: #66bfbf;
+}
+h3{
+    font-family: 'Oxygen', sans-serif;
+    color: #11999e;
+}
+p{
+    color: #222831;
+}
+.coder{
+    font-size: 2em;
+    margin-top: 10px;
+    font-weight: normal;
+    color: #222831;
+}
+span{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right:30%;
+}
+.profile-pic{
+    margin-top: 10px;
+    border-radius: 100%;
+    height: 300px;
+    width: 300px;
+}
+hr{
+    border-style: dotted none none none;
+    color: #222831;
+    width: 10%;
+    border-width: 5px;
+}
+a{
+    color: #11999e;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.python{
+    float: left;
+    margin-right: 30px;
+}
+.ml{
+    float: right;
+    margin-left: 30px;
+}
+.middle-container{
+    background-color: #f9f3ec;
+    padding-bottom: 70px;
+}
+.bottom-container{
+    background-color: #00adb5;
+    margin: 0px;
+    padding: 50px 50px 50px 50px;
+    
+}
+.button-space{
+    margin-bottom: 50px;
+    
+}
+.btn{
+    background-color:#222831;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius:10px;
+    border:1px solid #0a0a0a;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family: 'Varela Round', sans-serif;
+    font-size:20px;
+    font-weight:bold;
+    padding: 5px;
+    text-decoration:none;
+    text-shadow:0px 0px 0px #332833;
+}
+.btn:hover {
+    background-color:#518582;
+}
+.btn:active {
+    position:relative;
+    top:1px;
+}
+.footer-link{
+    margin: 20px;
+    color: #11999e;
+    text-decoration: none;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: bold;
+}
+.copyrights{
+    color: #eaf6f6;
+    font-family: 'Varela Round', sans-serif;
+
+}
